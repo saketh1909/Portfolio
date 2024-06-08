@@ -2,7 +2,7 @@
   {
     "name": "Uber Eats Prototype",
     "desc": "Full-Stack Uber Eats clone built using MERN stack and realtime chat with the help of socket.iO",
-    "image": "hulu",
+    "image": "ubereats",
     "category": "mern",
     "links": {
       "view": "",
