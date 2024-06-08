@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Uber Eats Prototype",
+    "desc": "Full-Stack Uber Eats clone built using MERN stack and realtime chat with the help of socket.iO",
+    "image": "hulu",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": "https://github.com/saketh1909/UberEats-Prototype"
+    }
+  },
+  {
+    "name": "Indeed Clone",
+    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. MERN Stack WebApp, ready to use for business.",
+    "image": "hulu",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": "https://github.com/saketh1909/IndeedProject-main"
+    }
+  }
+]
